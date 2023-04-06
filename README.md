@@ -1,5 +1,6 @@
 ### Hi there, thank you for stumbling upon my realm 👋
-I order Uber Eats 6 times a week and watch K-Drama for fun. I feel like coding is like assembling Ikea furniture except the instruction is in Swedish: you often have to go back and check how you missplace some bolts, but when you complete the construction... WOW, just WOW!
+I order Uber Eats 6 times a week and watch K-Drama for fun. 
+Coding is like assembling Ikea furniture except the instruction is in Swedish: you often have to go back and check how you missplace some bolts, but when you complete the construction... WOW, just WOW!
 
 
 <!--
